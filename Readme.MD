@@ -1,4 +1,4 @@
-These are all problems from Quicksilicon.in courses. 
+These are all problems from https://quicksilicon.in/ courses. 
 You should check those out and then if you are unable to solve come here for a solution.
 
 THIS HAS BEEN MY GENERAL APPROACH FOR DIVISIBILITY BY ANY NUMBER:
